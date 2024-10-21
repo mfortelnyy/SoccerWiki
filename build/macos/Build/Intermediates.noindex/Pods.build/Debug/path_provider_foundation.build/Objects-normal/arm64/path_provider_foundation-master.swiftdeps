@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "3d368f306f24f3c0eab0457470340fe116b334a009fa5f26a9f8da012b45d74c"
+build_start_time: [1729542498, 184170000]
+build_end_time: [1729542504, 350525000]
+inputs:
+  ? "/Users/maksym/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.0/darwin/path_provider_foundation/Sources/path_provider_foundation/PathProviderPlugin.swift"
+  : [1729542436, 697653537]
+  ? "/Users/maksym/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.0/darwin/path_provider_foundation/Sources/path_provider_foundation/messages.g.swift"
+  : [1729542436, 715003869]

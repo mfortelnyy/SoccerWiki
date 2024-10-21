@@ -1,0 +1,9 @@
+
+###
+GET apiv2.allsportsapi.com/football?met=Teams&teamId=300&APIkey=76d5a73c674ba10227c4b849a88e3d13cb8eca16783c5e164f11f3bd3fae8254
+Content-Type: application/json
+APIkey: 76d5a73c674ba10227c4b849a88e3d13cb8eca16783c5e164f11f3bd3fae8254
+
+###
+
+GET https://apiv2.allsportsapi.com/football/?&met=Videos&eventId=86392&APIkey=76d5a73c674ba10227c4b849a88e3d13cb8eca16783c5e164f11f3bd3fae8254
