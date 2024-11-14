@@ -1,6 +1,4 @@
-SoccerWiki app
--Sports Team & Player Tracking App
-This Flutter-based mobile app allows users to explore and track their favorite sports teams and players, with an emphasis on real-time updates and personalized features.
+Sports Team & Player Tracking App. This Flutter-based mobile app allows users to explore and track their favorite sports teams and players, with an emphasis on real-time updates and personalized features.
 
 
 Key Features:
